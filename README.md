@@ -2,13 +2,15 @@
 
 ## WebServer:
 
-``export _JAVA_OPTIONS="-XX:-UseSplitVerifier"
+<code>export _JAVA_OPTIONS="-XX:-UseSplitVerifier"</code>
 
-``bash compile.sh``
+<code>bash compile.sh</code>
 
 ## LoadBalancer:
-``javac *.java para compilar``
-``java LoadBalancer para correr o LoadBalancer``
+
+<code>javac *.java para compilar</code>
+
+<code>java LoadBalancer para correr o LoadBalancer</code>
 
 
 http://IPPublicoLoadBalancer:8000/f.html/n?=NumeroPretendido
