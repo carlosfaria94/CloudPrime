@@ -13,6 +13,8 @@ provide a reasonable client experience. Our other main goal
 was not to lose any request, therefore making the cluster
 fault-tolerant.
 
+More detailed information in [Project Report](https://github.com/carlosfaria94/CloudPrime/blob/master/report.pdf).
+
 
 ## WebServer execution:
 
